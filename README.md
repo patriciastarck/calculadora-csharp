@@ -10,7 +10,7 @@ Este é um projeto para praticar lógica de programação e condicionais em C#.
   - Subtração (-)
   - Multiplicação (*)
   - Divisão (/)
-  - Recebe o segundo número inteiro do usuário.
+- Recebe o segundo número inteiro do usuário.
 - Exibe o resultado no console.
 
 ## Imagem da Aplicação
