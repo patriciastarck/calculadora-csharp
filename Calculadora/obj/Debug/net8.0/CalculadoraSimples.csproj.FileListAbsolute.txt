@@ -1,0 +1,14 @@
+C:\Workspace\Calculadora\Calculadora\bin\Debug\net8.0\CalculadoraSimples.exe
+C:\Workspace\Calculadora\Calculadora\bin\Debug\net8.0\CalculadoraSimples.deps.json
+C:\Workspace\Calculadora\Calculadora\bin\Debug\net8.0\CalculadoraSimples.runtimeconfig.json
+C:\Workspace\Calculadora\Calculadora\bin\Debug\net8.0\CalculadoraSimples.dll
+C:\Workspace\Calculadora\Calculadora\bin\Debug\net8.0\CalculadoraSimples.pdb
+C:\Workspace\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Workspace\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfo.cs
+C:\Workspace\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Workspace\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.dll
+C:\Workspace\Calculadora\Calculadora\obj\Debug\net8.0\refint\CalculadoraSimples.dll
+C:\Workspace\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.pdb
+C:\Workspace\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.genruntimeconfig.cache
+C:\Workspace\Calculadora\Calculadora\obj\Debug\net8.0\ref\CalculadoraSimples.dll
