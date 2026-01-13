@@ -1,6 +1,6 @@
 # Calculadora em C#
 
-Este é um projeto para praticar lógica de programação e condicionais em C#.
+Este é um projeto para praticar lógica de programação, condicionais em C# e ferramentas de desenvolvimento.
 
 ## Funcionalidades
 
